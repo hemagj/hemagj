@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Hemalatha</h1>
-<h3 align="center">Computer science student, passionate web developer and coder</h3>
+<h1 align="center">Hey everyone🖐, I'm Hemalatha G</h1>
+<h3 align="center">A computer science junior student studying in Women's christian college, Chennai</h3><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemagj&label=Profile%20views&color=0e75b6&style=flat" alt="hemagj" /> </p>
 
-- 🌱 I’m currently studying in **Women's christian college**
+### 📝 Brief Introduction!
+- 🔭 I’m currently studying in **Women's christian college**
+- ⚡ Fun fact :**Love to code 😁**
+
+### ⚡ Streak
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemagj&theme=radical" alt="mithesh14" /></p>
+
+### 📊 Github stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemagj&show_icons=true&locale=en&theme=radical" alt="mithesh14" /></p><br>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemagj&show_icons=true&locale=en&layout=compact" alt="hemagj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemagj&show_icons=true&locale=en" alt="hemagj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemagj&" alt="hemagj" /></p>
+### 🎖️ Used languages
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemagj&show_icons=true&locale=en&layout=compact&theme=radical" alt="mithesh14" />&nbsp;&nbsp;&nbsp;</p><br><br><br><br><br><br>
 
